@@ -16,6 +16,17 @@
   margin-inline: auto;
   border: 2px solid blue;
 }
+
+.flex {
+  display: flex;
+}
+.gap-1 {
+  gap: 1rem;
+}
+.grid {
+  display: grid;
+}
+
 .desktop-only {
   display: none;
 }
