@@ -26,9 +26,9 @@ Editar
 Cantarol/
 ├── assets/
 │   ├── icons/           # Ícones utilizados na interface
-│   └── songs/           # Arquivos de áudio das músicas
+│   └── imgs/            # Imagens
 ├── styles/
-│   └── main.css         # Estilos principais do aplicativo
+│   └── index.css        # Estilos principais do aplicativo
 ├── index.html           # Página principal
 └── README.md            # Documentação do projeto
 ```
